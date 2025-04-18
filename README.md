@@ -1,7 +1,12 @@
-# Project
+# Science Foundation Model
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+We develop the Science Foundation Model to empower natural scientists and accelerate breakthroughs in scientific discovery. As part of this effort, we introduce the sequence-based model, Nature Language Model (NatureLM). NatureLM is designed to span multiple domains, including small molecules, materials, proteins, DNA, and RNA. NatureLM harnesses the "language of nature" by enabling scientific advancements through intuitive through text-based instructions and cross-domain generation. 
+
+
+## News
+
+- NatureLM is released in `NatureLM`
+
 
 As the maintainer of this project, please make a few updates:
 
