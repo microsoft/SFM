@@ -1,7 +1,7 @@
 [project]
 name = "naturelm"
 version = "0.1.0"
-description = "Add your description here"
+description = "naturelm"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
