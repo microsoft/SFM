@@ -2,6 +2,10 @@
 
 Nature Language Model (NatureLM), developed by Microsoft Research AI for Science, is a groundbreaking sequence-based science foundation model designed to unify multiple scientific domains, including small molecules, materials, proteins, DNA and RNA. This innovative model leverages the "language of nature" to enable scientific discovery through text-based instructions.
 
+Checkpoint links:
+- https://huggingface.co/microsoft/NatureLM-8x7B
+- https://huggingface.co/microsoft/NatureLM-8x7B-Inst
+
 ## Key Features:
 
 - Cross-Domain Integration: NatureLM excels at generating scientific entities across domains, bridging tasks that require multi-domain knowledge, such as designing ligands for protein receptors, generating RNAs tailored to RNA-binding proteins, and engineering guide RNAs for targeted CRISPR-based DNA editing.
